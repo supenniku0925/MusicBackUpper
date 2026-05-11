@@ -1,8 +1,15 @@
 {
-  "version": "1.1.5",
-  "releaseNotes": "バージョン取得をCDN経由に変更（高速化）",
+  "version": "1.1.6",
+  "releaseNotes": "CSPエラーを修正（ナビバーのインラインスクリプトを外部化）",
   "downloadUrl": "https://github.com/supenniku0925/MusicBackUpper/releases/latest",
   "releases": [
+    {
+      "version": "1.1.6",
+      "date": "2026-05-11",
+      "notes": [
+        "CSPエラーを修正（インラインonclickを外部スクリプトに移行）"
+      ]
+    },
     {
       "version": "1.1.5",
       "date": "2026-05-11",
