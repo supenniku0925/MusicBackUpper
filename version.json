@@ -1,8 +1,17 @@
 {
-  "version": "1.1.6",
-  "releaseNotes": "CSPエラーを修正（ナビバーのインラインスクリプトを外部化）",
+  "version": "1.1.7",
+  "releaseNotes": "ナビバーを同一タブ遷移に変更・設定ページにも追加",
   "downloadUrl": "https://github.com/supenniku0925/MusicBackUpper/releases/latest",
   "releases": [
+    {
+      "version": "1.1.7",
+      "date": "2026-05-11",
+      "notes": [
+        "ナビバーのページ遷移を同一タブに変更",
+        "設定ページにもナビバーを追加",
+        "現在のページをハイライト表示"
+      ]
+    },
     {
       "version": "1.1.6",
       "date": "2026-05-11",
