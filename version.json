@@ -1,8 +1,15 @@
 {
-  "version": "1.1.7",
-  "releaseNotes": "ナビバーを同一タブ遷移に変更・設定ページにも追加",
+  "version": "1.1.8",
+  "releaseNotes": "削除確認ダイアログのバグを修正",
   "downloadUrl": "https://github.com/supenniku0925/MusicBackUpper/releases/latest",
   "releases": [
+    {
+      "version": "1.1.8",
+      "date": "2026-05-11",
+      "notes": [
+        "ポップアップの削除・移動確認ダイアログが2回目以降動かない問題を修正"
+      ]
+    },
     {
       "version": "1.1.7",
       "date": "2026-05-11",
